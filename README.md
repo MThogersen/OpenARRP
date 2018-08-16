@@ -1,14 +1,14 @@
-# Affordable Augmented Reality Research Platform (ARRP) intro
+# Open Augmented Reality Research Platform (ARRP) intro
 Welcome to this page for the ARRP project.
 This page and its content is intended as a tutorial and building guide for researchers and AR-enthusiast to build their own affordable augmented reality research platform HMD. The ARRP is an augmented reality platform developed at Aalborg University and the Center for Neuroplasticity and Pain (CNAP). The platform is licensed under the GPLv3 license, which means it is open for anyone to use, also for commercial use, however all enhancements of the platform must be made available under the same license.
 
 Any use of the platform should cite the following paper: XXX
 
 ## Showcase
-![alt text](https://github.com/MThogersen/OpenAARRP/blob/master/images/AARRPv1_device_image.jpg?raw=true "Image of AARRP v1")
+![alt text](figures/AARRPv1_device_image.jpg)
 
 
-## Description of the AARRP
+## Description of the ARRP
 The basic build-up of the system consist of a VR HMD, in this guide the HTC Vive is used, two cameras attached to the front (from IDS imaging systems GMBH &copy;), a VR-ready computer with two (seperate) USB 3.1 ports and finally Unity 3D &copy; gaming engine and the IDS uEye SDK &copy;. Even though this guide is based on the HTC Vive, any recent VR headset supported by the Unity engine should work.
 
 
