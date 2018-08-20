@@ -1,3 +1,5 @@
+THIS REPOSITORY IS UNDER CONSTRUCTION
+
 # Open Augmented Reality Research Platform (ARRP) intro
 Welcome to this page for the ARRP project.
 This page and its content is intended as a tutorial and building guide for researchers and AR-enthusiast to build their own affordable augmented reality research platform HMD. The ARRP is an augmented reality platform developed at Aalborg University and the Center for Neuroplasticity and Pain (CNAP). The platform is licensed under the GPLv3 license, which means it is open for anyone to use, also for commercial use, however all enhancements of the platform must be made available under the same license.
