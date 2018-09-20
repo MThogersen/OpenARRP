@@ -76,7 +76,8 @@ In the folder "3D-prints" three files are located. Print 2 of the camera-lens ho
 
 #Minimum working example
 
-
+## Troubleshooting
+Some have complained about the calibration of the HTC Vive to give a "slanted" floor. To overcome this problem, perform a calibration of the IMU's inside the Vive. For fixing this issue, go here: [https://www.reddit.com/r/Vive/comments/6tzthx/fix_for_slanted_floor_issue_imu_recalibration/] (https://www.reddit.com/r/Vive/comments/6tzthx/fix_for_slanted_floor_issue_imu_recalibration/)
 
 
 
